@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+venv_spotify/
+
+**/data/*.csv
+.DS_Store
+**/.DS_Store
+**/reports/*.html
